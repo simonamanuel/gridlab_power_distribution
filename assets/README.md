@@ -1,8 +1,10 @@
-# Demo screenshots
+## Screenshots
 
-Add screenshots taken from your own local GRIDLAB application here, for example:
-- `site-overview.png`
-- `fault-study.png`
-- `engineering-notes.png`
+### 3D Site Overview
+![GRIDLAB overview](assets/overview.png)
 
-Avoid screenshots containing API keys, usernames, local filesystem paths, or private data.
+### Feeder Fault Simulation
+![Fault simulation](assets/fault_simulation.png)
+
+### Engineering Results
+![Engineering results](assets/engineering_results.png)
