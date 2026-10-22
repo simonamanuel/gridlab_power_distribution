@@ -1,0 +1,5 @@
+fastapi>=0.115
+uvicorn>=0.30
+pandapower>=2.14
+pandas>=2.0
+openai>=1.80

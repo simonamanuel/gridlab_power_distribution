@@ -1,0 +1,20 @@
+# Python environments and local configuration
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+.vscode/
+.idea/
+
+# Local reports (regenerate using python3 validation.py)
+reports/
+
+# Temporary files
+*.log
