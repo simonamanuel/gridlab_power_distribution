@@ -1,4 +1,4 @@
-# GRIDLAB — Power Distribution Simulation
+# GRIDLAB - Power Distribution Simulation
 
 I built GRIDLAB to learn more about power systems by making something I could actually interact with. It started with a Python model of a transformer and a load. I then added three feeders, switch controls, a 3D site view, and simple fault studies.
 
