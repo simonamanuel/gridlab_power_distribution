@@ -1,10 +1,9 @@
-## Screenshots
 
-### 3D Site Overview
-![GRIDLAB overview](assets/overview.png)
+### SCADA overview
+![Ignition Perspective overview](Screenshots/SCADA%20Overview.png)
 
-### Feeder Fault Simulation
-![Fault simulation](assets/fault_simulation.png)
+### Automatic plant operation
+![Automatic operating state](Screenshots/Automatic%20Operation.png)
 
-### Engineering Results
-![Engineering results](assets/engineering_results.png)
+### PLC control logic
+![OpenPLC Structured Text and function blocks](Screenshots/PLC%20Control%20Logic.png)
